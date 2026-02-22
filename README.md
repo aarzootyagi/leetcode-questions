@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/aarzootyagi/leetcode-questions/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
