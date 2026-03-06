@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aarzootyagi/leetcode-questions/tree/master/0743-network-delay-time) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/aarzootyagi/leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/aarzootyagi/leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aarzootyagi/leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/aarzootyagi/leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aarzootyagi/leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aarzootyagi/leetcode-questions/tree/master/0743-network-delay-time) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/aarzootyagi/leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/aarzootyagi/leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aarzootyagi/leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aarzootyagi/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/aarzootyagi/leetcode-questions/tree/master/0036-valid-sudoku) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/aarzootyagi/leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aarzootyagi/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
