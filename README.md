@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1980-find-unique-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1980-find-unique-binary-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/aarzootyagi/leetcode-questions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -157,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+## Math
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
