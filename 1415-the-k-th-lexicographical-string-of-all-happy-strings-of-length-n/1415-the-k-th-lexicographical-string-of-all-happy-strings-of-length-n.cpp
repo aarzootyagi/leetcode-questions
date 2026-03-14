@@ -1,26 +1,18 @@
 class Solution {
 public:
-    string ans = "";
-    int cnt = 0;
-
-    void dfs(string cur, int n, int k) {
-        if (cur.size() == n) {
-            cnt++;
-            if (cnt == k)
-                ans = cur;
+    void dfs(string s, int n, vector<string>& v) {
+        if (s.size() == n) {
+            v.push_back(s);
             return;
         }
-        for (char c : {'a', 'b', 'c'}) {
-            if (cur.empty() || cur.back() != c) {
-                dfs(cur + c, n, k);
-                if (!ans.empty())
-                    return;
-            }
-        }
+        for (char c : {'a', 'b', 'c'})
+            if (s.empty() || s.back() != c)
+                dfs(s + c, n, v);
     }
 
     string getHappyString(int n, int k) {
-        dfs("", n, k);
-        return ans;
+        vector<string> v;
+        dfs("", n, v);
+        return k <= v.size() ? v[k - 1] : "";
     }
 };
