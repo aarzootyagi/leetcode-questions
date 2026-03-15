@@ -1,24 +1,26 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1 || s.length() <= numRows)
+        if (numRows == 1)
             return s;
         vector<string> rows(numRows);
-        int currRow = 0;
-        bool goingDown = false;
+        int row = 0;
+        int dir = 1;
 
         for (char c : s) {
-            rows[currRow] += c;
+            rows[row] += c;
 
-            if (currRow == 0 || currRow == numRows - 1)
-                goingDown = !goingDown;
+            if (row == 0)
+                dir = 1;
+            else if (row == numRows - 1)
+                dir = -1;
 
-            currRow += goingDown ? 1 : -1;
+            row += dir;
         }
-        string result = "";
-        for (string row : rows) {
-            result += row;
+        string ans = "";
+        for (auto r : rows) {
+            ans += r;
         }
-        return result;
+        return ans;
     }
 };
