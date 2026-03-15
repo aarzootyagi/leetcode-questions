@@ -14,17 +14,23 @@ public:
         }
         return res;
     }
+
     Fancy() {}
     void append(int val) {
         long long v = (val - add + MOD) % MOD;
         v = (v * modInv(mul)) % MOD;
         arr.push_back(v);
     }
-    void addAll(int inc) { add = (add + inc) % MOD; }
+
+    void addAll(int inc) {
+        add = (add + inc) % MOD; 
+    }
+
     void multAll(int m) {
         mul = (mul * m) % MOD;
         add = (add * m) % MOD;
     }
+
     int getIndex(int idx) {
         if (idx >= arr.size())
             return -1;
