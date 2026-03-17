@@ -19,7 +19,6 @@ public:
                 ans = max(ans, row[j] * (j + 1));
             }
         }
-
         return ans;
     }
 };
