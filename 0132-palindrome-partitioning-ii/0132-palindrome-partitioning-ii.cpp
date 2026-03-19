@@ -40,7 +40,6 @@ public:
         if (pal[i][j] != -1) return pal[i][j];
         return pal[i][j] = (s[i] == s[j] && isPalindrome(s, i + 1, j - 1));
     }
-
     int solve(string &s, int i) {
         if (i == s.size()) return 0;
         if (dp[i] != -1) return dp[i];
@@ -52,10 +51,8 @@ public:
                 ans = min(ans, 1 + solve(s, j + 1));
             }
         }
-
         return dp[i] = ans;
     }
-
     int minCut(string s) {
         int n = s.size();
         dp = vector<int>(n, -1);
