@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aarzootyagi/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/aarzootyagi/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aarzootyagi/leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aarzootyagi/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aarzootyagi/leetcode-questions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/aarzootyagi/leetcode-questions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/aarzootyagi/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0132-palindrome-partitioning-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aarzootyagi/leetcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aarzootyagi/leetcode-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aarzootyagi/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [1622-fancy-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
