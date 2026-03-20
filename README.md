@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aarzootyagi/leetcode-questions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/aarzootyagi/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/aarzootyagi/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0064-minimum-path-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aarzootyagi/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aarzootyagi/leetcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aarzootyagi/leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -208,4 +210,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aarzootyagi/leetcode-questions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/aarzootyagi/leetcode-questions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
