@@ -12,6 +12,7 @@ public:
         }
         return true;
     }
+
      bool solve(vector<vector<char>>& board) {
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
@@ -29,7 +30,7 @@ public:
         }
         return true;
     }
-
+    
     void solveSudoku(vector<vector<char>>& board) {
         solve(board);
     }
