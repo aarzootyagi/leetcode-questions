@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aarzootyagi/leetcode-questions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/aarzootyagi/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0132-palindrome-partitioning-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aarzootyagi/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aarzootyagi/leetcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aarzootyagi/leetcode-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aarzootyagi/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aarzootyagi/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/aarzootyagi/leetcode-questions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/aarzootyagi/leetcode-questions/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aarzootyagi/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aarzootyagi/leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aarzootyagi/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aarzootyagi/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
