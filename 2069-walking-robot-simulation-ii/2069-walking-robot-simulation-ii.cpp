@@ -1,8 +1,8 @@
 class Robot {
 public:
-    int w, h,perimeter;
-    int pos=0;
-    bool moved=false;
+    int w, h, perimeter;
+    int pos = 0;
+    bool moved = false;
 
     Robot(int width, int height) {
         w = width;
