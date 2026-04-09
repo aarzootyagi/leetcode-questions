@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aarzootyagi/leetcode-questions/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/aarzootyagi/leetcode-questions/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/aarzootyagi/leetcode-questions/tree/master/0874-walking-robot-simulation) |
+| [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aarzootyagi/leetcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarzootyagi/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aarzootyagi/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aarzootyagi/leetcode-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/aarzootyagi/leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aarzootyagi/leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aarzootyagi/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/aarzootyagi/leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/aarzootyagi/leetcode-questions/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aarzootyagi/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aarzootyagi/leetcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aarzootyagi/leetcode-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aarzootyagi/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/aarzootyagi/leetcode-questions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/aarzootyagi/leetcode-questions/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/aarzootyagi/leetcode-questions/tree/master/0846-hand-of-straights) |
+| [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aarzootyagi/leetcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aarzootyagi/leetcode-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aarzootyagi/leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -318,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aarzootyagi/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/aarzootyagi/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0295-find-median-from-data-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
+| [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aarzootyagi/leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search Tree
 |  |
