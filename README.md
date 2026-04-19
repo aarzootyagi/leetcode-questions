@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aarzootyagi/leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aarzootyagi/leetcode-questions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aarzootyagi/leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aarzootyagi/leetcode-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1980-find-unique-binary-string) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aarzootyagi/leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aarzootyagi/leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aarzootyagi/leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/2498-frog-jump-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aarzootyagi/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0295-find-median-from-data-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aarzootyagi/leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aarzootyagi/leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search Tree
 |  |
