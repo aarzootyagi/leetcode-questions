@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/2498-frog-jump-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/aarzootyagi/leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/aarzootyagi/leetcode-questions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/aarzootyagi/leetcode-questions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aarzootyagi/leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aarzootyagi/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/aarzootyagi/leetcode-questions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/aarzootyagi/leetcode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/aarzootyagi/leetcode-questions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aarzootyagi/leetcode-questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
