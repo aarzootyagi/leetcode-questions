@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aarzootyagi/leetcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aarzootyagi/leetcode-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/aarzootyagi/leetcode-questions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aarzootyagi/leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/aarzootyagi/leetcode-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aarzootyagi/leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aarzootyagi/leetcode-questions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aarzootyagi/leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/aarzootyagi/leetcode-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/aarzootyagi/leetcode-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/aarzootyagi/leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
