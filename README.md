@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aarzootyagi/leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/aarzootyagi/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
 | [0621-task-scheduler](https://github.com/aarzootyagi/leetcode-questions/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aarzootyagi/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aarzootyagi/leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aarzootyagi/leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aarzootyagi/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aarzootyagi/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/1622-fancy-sequence) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aarzootyagi/leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
