@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/aarzootyagi/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aarzootyagi/leetcode-questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aarzootyagi/leetcode-questions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarzootyagi/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aarzootyagi/leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/aarzootyagi/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aarzootyagi/leetcode-questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aarzootyagi/leetcode-questions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aarzootyagi/leetcode-questions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/aarzootyagi/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aarzootyagi/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/aarzootyagi/leetcode-questions/tree/master/0048-rotate-image) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
