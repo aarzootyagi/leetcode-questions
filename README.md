@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aarzootyagi/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aarzootyagi/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aarzootyagi/leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/aarzootyagi/leetcode-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/aarzootyagi/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aarzootyagi/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/aarzootyagi/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aarzootyagi/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aarzootyagi/leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/aarzootyagi/leetcode-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/aarzootyagi/leetcode-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aarzootyagi/leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
