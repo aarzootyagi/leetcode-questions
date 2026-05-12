@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<string> result;
-
     void solve(string& num, int target, int index, long currVal, long prev,
                string path) {
 
@@ -12,7 +11,6 @@ public:
             return;
         }
         for (int i = index; i < num.size(); i++) {
-
             if (i != index && num[index] == '0')
                 break;
 
