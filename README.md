@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aarzootyagi/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/aarzootyagi/leetcode-questions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aarzootyagi/leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aarzootyagi/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/aarzootyagi/leetcode-questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aarzootyagi/leetcode-questions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/aarzootyagi/leetcode-questions/tree/master/0069-sqrtx) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
