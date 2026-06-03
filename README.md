@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aarzootyagi/leetcode-questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/aarzootyagi/leetcode-questions/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/aarzootyagi/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aarzootyagi/leetcode-questions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/aarzootyagi/leetcode-questions/tree/master/0071-simplify-path) |
 | [0132-palindrome-partitioning-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
