@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aarzootyagi/leetcode-questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3660-jump-game-ix](https://github.com/aarzootyagi/leetcode-questions/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aarzootyagi/leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aarzootyagi/leetcode-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aarzootyagi/leetcode-questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Design
@@ -525,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aarzootyagi/leetcode-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aarzootyagi/leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
