@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aarzootyagi/leetcode-questions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/aarzootyagi/leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0060-permutation-sequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aarzootyagi/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/aarzootyagi/leetcode-questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aarzootyagi/leetcode-questions/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/aarzootyagi/leetcode-questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aarzootyagi/leetcode-questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aarzootyagi/leetcode-questions/tree/master/0069-sqrtx) |
