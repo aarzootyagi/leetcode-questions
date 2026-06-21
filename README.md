@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aarzootyagi/leetcode-questions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/aarzootyagi/leetcode-questions/tree/master/0089-gray-code) |
 | [0868-binary-gap](https://github.com/aarzootyagi/leetcode-questions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/aarzootyagi/leetcode-questions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aarzootyagi/leetcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/aarzootyagi/leetcode-questions/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/aarzootyagi/leetcode-questions/tree/master/0089-gray-code) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aarzootyagi/leetcode-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1980-find-unique-binary-string) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aarzootyagi/leetcode-questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aarzootyagi/leetcode-questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aarzootyagi/leetcode-questions/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/aarzootyagi/leetcode-questions/tree/master/0089-gray-code) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
