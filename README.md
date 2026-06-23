@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/aarzootyagi/leetcode-questions/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarzootyagi/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aarzootyagi/leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/aarzootyagi/leetcode-questions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/aarzootyagi/leetcode-questions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aarzootyagi/leetcode-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1980-find-unique-binary-string) |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Data Stream
