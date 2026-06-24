@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/aarzootyagi/leetcode-questions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/aarzootyagi/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarzootyagi/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aarzootyagi/leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/aarzootyagi/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/aarzootyagi/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aarzootyagi/leetcode-questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aarzootyagi/leetcode-questions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/aarzootyagi/leetcode-questions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/aarzootyagi/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/aarzootyagi/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Data Stream
