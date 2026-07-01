@@ -3,9 +3,9 @@ public:
     string getPermutation(int n, int k) {
         vector<int> nums;
         vector<int> fact(n, 1);
+
         for (int i = 1; i < n; i++)
             fact[i] = fact[i - 1] * i;
-
         for (int i = 1; i <= n; i++)
             nums.push_back(i);
 
