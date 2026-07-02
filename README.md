@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aarzootyagi/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aarzootyagi/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aarzootyagi/leetcode-questions/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/aarzootyagi/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/aarzootyagi/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aarzootyagi/leetcode-questions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/aarzootyagi/leetcode-questions/tree/master/0621-task-scheduler) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aarzootyagi/leetcode-questions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aarzootyagi/leetcode-questions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/aarzootyagi/leetcode-questions/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/aarzootyagi/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/aarzootyagi/leetcode-questions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/0097-interleaving-string) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aarzootyagi/leetcode-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/aarzootyagi/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aarzootyagi/leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aarzootyagi/leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
