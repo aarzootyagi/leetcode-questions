@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/aarzootyagi/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarzootyagi/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aarzootyagi/leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarzootyagi/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aarzootyagi/leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aarzootyagi/leetcode-questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aarzootyagi/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aarzootyagi/leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/aarzootyagi/leetcode-questions/tree/master/0076-minimum-window-substring) |
+| [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aarzootyagi/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aarzootyagi/leetcode-questions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/aarzootyagi/leetcode-questions/tree/master/0621-task-scheduler) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/0097-interleaving-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/aarzootyagi/leetcode-questions/tree/master/0168-excel-sheet-column-title) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0657-robot-return-to-origin](https://github.com/aarzootyagi/leetcode-questions/tree/master/0657-robot-return-to-origin) |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/aarzootyagi/leetcode-questions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aarzootyagi/leetcode-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1980-find-unique-binary-string) |
@@ -654,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aarzootyagi/leetcode-questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aarzootyagi/leetcode-questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Enumeration
@@ -674,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aarzootyagi/leetcode-questions/tree/master/0085-maximal-rectangle) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
