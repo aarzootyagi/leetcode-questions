@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/aarzootyagi/leetcode-questions/tree/master/0874-walking-robot-simulation) |
 | [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aarzootyagi/leetcode-questions/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/aarzootyagi/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/aarzootyagi/leetcode-questions/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/aarzootyagi/leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/aarzootyagi/leetcode-questions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aarzootyagi/leetcode-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1914-cyclically-rotating-a-grid) |
