@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/aarzootyagi/leetcode-questions/tree/master/0168-excel-sheet-column-title) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
+| [0402-remove-k-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/aarzootyagi/leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/aarzootyagi/leetcode-questions/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/0796-rotate-string) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aarzootyagi/leetcode-questions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/aarzootyagi/leetcode-questions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aarzootyagi/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/aarzootyagi/leetcode-questions/tree/master/0846-hand-of-straights) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/aarzootyagi/leetcode-questions/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/aarzootyagi/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0402-remove-k-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aarzootyagi/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aarzootyagi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aarzootyagi/leetcode-questions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aarzootyagi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Memoization
 |  |
