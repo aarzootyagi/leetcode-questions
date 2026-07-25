@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/aarzootyagi/leetcode-questions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/aarzootyagi/leetcode-questions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aarzootyagi/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aarzootyagi/leetcode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aarzootyagi/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
