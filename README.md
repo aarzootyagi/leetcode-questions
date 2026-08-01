@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/aarzootyagi/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0621-task-scheduler](https://github.com/aarzootyagi/leetcode-questions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/aarzootyagi/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aarzootyagi/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0788-rotated-digits) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aarzootyagi/leetcode-questions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/aarzootyagi/leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/aarzootyagi/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/aarzootyagi/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/1622-fancy-sequence) |
@@ -738,4 +742,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aarzootyagi/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aarzootyagi/leetcode-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aarzootyagi/leetcode-questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
