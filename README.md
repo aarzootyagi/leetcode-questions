@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aarzootyagi/leetcode-questions/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/aarzootyagi/leetcode-questions/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/aarzootyagi/leetcode-questions/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/aarzootyagi/leetcode-questions/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1260-shift-2d-grid) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aarzootyagi/leetcode-questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/aarzootyagi/leetcode-questions/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aarzootyagi/leetcode-questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/aarzootyagi/leetcode-questions/tree/master/1340-jump-game-v) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aarzootyagi/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/aarzootyagi/leetcode-questions/tree/master/0877-stone-game) |
 | [1622-fancy-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/aarzootyagi/leetcode-questions/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -746,4 +749,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aarzootyagi/leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aarzootyagi/leetcode-questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
