@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aarzootyagi/leetcode-questions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/aarzootyagi/leetcode-questions/tree/master/0089-gray-code) |
+| [0187-repeated-dna-sequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0868-binary-gap](https://github.com/aarzootyagi/leetcode-questions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/aarzootyagi/leetcode-questions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aarzootyagi/leetcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aarzootyagi/leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/aarzootyagi/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
+| [0187-repeated-dna-sequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/aarzootyagi/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aarzootyagi/leetcode-questions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/aarzootyagi/leetcode-questions/tree/master/0621-task-scheduler) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/aarzootyagi/leetcode-questions/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/aarzootyagi/leetcode-questions/tree/master/0657-robot-return-to-origin) |
@@ -379,10 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aarzootyagi/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aarzootyagi/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Tree
 |  |
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/aarzootyagi/leetcode-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/aarzootyagi/leetcode-questions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aarzootyagi/leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aarzootyagi/leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
