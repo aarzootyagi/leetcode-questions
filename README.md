@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/aarzootyagi/leetcode-questions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/aarzootyagi/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/aarzootyagi/leetcode-questions/tree/master/0168-excel-sheet-column-title) |
+| [0263-ugly-number](https://github.com/aarzootyagi/leetcode-questions/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
