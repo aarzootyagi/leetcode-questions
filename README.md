@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aarzootyagi/leetcode-questions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/aarzootyagi/leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aarzootyagi/leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aarzootyagi/leetcode-questions/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/aarzootyagi/leetcode-questions/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
+| [0367-valid-perfect-square](https://github.com/aarzootyagi/leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/aarzootyagi/leetcode-questions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/aarzootyagi/leetcode-questions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/aarzootyagi/leetcode-questions/tree/master/0486-predict-the-winner) |
