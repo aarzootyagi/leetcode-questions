@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/aarzootyagi/leetcode-questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aarzootyagi/leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/aarzootyagi/leetcode-questions/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aarzootyagi/leetcode-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aarzootyagi/leetcode-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1872-stone-game-viii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aarzootyagi/leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aarzootyagi/leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2573-find-the-string-with-lcp](https://github.com/aarzootyagi/leetcode-questions/tree/master/2573-find-the-string-with-lcp) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aarzootyagi/leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/aarzootyagi/leetcode-questions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/aarzootyagi/leetcode-questions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/aarzootyagi/leetcode-questions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/2906-construct-product-matrix) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1140-stone-game-ii) |
 | [1622-fancy-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/aarzootyagi/leetcode-questions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aarzootyagi/leetcode-questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/aarzootyagi/leetcode-questions/tree/master/2029-stone-game-ix) |
@@ -815,17 +819,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aarzootyagi/leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aarzootyagi/leetcode-questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aarzootyagi/leetcode-questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aarzootyagi/leetcode-questions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aarzootyagi/leetcode-questions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aarzootyagi/leetcode-questions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
