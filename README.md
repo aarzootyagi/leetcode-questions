@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aarzootyagi/leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/aarzootyagi/leetcode-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aarzootyagi/leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aarzootyagi/leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aarzootyagi/leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/2498-frog-jump-ii) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/aarzootyagi/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aarzootyagi/leetcode-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aarzootyagi/leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aarzootyagi/leetcode-questions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aarzootyagi/leetcode-questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aarzootyagi/leetcode-questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aarzootyagi/leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aarzootyagi/leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/aarzootyagi/leetcode-questions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1872-stone-game-viii) |
