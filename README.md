@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aarzootyagi/leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/aarzootyagi/leetcode-questions/tree/master/3488-closest-equal-element-queries) |
 | [3524-find-x-value-of-array-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aarzootyagi/leetcode-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/aarzootyagi/leetcode-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aarzootyagi/leetcode-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aarzootyagi/leetcode-questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aarzootyagi/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aarzootyagi/leetcode-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
