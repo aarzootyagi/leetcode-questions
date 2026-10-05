@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/aarzootyagi/leetcode-questions/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aarzootyagi/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aarzootyagi/leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aarzootyagi/leetcode-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1096-brace-expansion-ii) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aarzootyagi/leetcode-questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
