@@ -6,11 +6,8 @@ public:
             if (c == '(') {
                 balance++;
             } else {
-                if (balance > 0) {
-                    balance--;
-                } else {
-                    moves++;
-                }
+                if (balance > 0) balance--;
+                else moves++;
             }
         }
         return moves + balance;
