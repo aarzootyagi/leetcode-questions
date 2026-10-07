@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aarzootyagi/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0301-remove-invalid-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0721-accounts-merge](https://github.com/aarzootyagi/leetcode-questions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/aarzootyagi/leetcode-questions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/aarzootyagi/leetcode-questions/tree/master/0841-keys-and-rooms) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aarzootyagi/leetcode-questions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/aarzootyagi/leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/0678-valid-parenthesis-string) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aarzootyagi/leetcode-questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/1980-find-unique-binary-string) |
