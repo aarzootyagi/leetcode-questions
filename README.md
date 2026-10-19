@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aarzootyagi/leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aarzootyagi/leetcode-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/aarzootyagi/leetcode-questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aarzootyagi/leetcode-questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aarzootyagi/leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aarzootyagi/leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2498-frog-jump-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/2498-frog-jump-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/aarzootyagi/leetcode-questions/tree/master/3488-closest-equal-element-queries) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aarzootyagi/leetcode-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aarzootyagi/leetcode-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aarzootyagi/leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/aarzootyagi/leetcode-questions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aarzootyagi/leetcode-questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2751-robot-collisions](https://github.com/aarzootyagi/leetcode-questions/tree/master/2751-robot-collisions) |
