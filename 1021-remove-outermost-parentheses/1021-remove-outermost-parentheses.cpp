@@ -10,8 +10,7 @@ public:
                 depth++;
             } else {
                 depth--;
-                if (depth > 0)
-                    ans += c;
+                if (depth > 0) ans += c;
             }
         }
         return ans;
