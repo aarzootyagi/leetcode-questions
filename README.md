@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/aarzootyagi/leetcode-questions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aarzootyagi/leetcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aarzootyagi/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/aarzootyagi/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/aarzootyagi/leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aarzootyagi/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/aarzootyagi/leetcode-questions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/aarzootyagi/leetcode-questions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aarzootyagi/leetcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aarzootyagi/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aarzootyagi/leetcode-questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aarzootyagi/leetcode-questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [1048-longest-string-chain](https://github.com/aarzootyagi/leetcode-questions/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aarzootyagi/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aarzootyagi/leetcode-questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/aarzootyagi/leetcode-questions/tree/master/1861-rotating-the-box) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/aarzootyagi/leetcode-questions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
