@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/aarzootyagi/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarzootyagi/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/aarzootyagi/leetcode-questions/tree/master/0134-gas-station) |
 | [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0721-accounts-merge](https://github.com/aarzootyagi/leetcode-questions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aarzootyagi/leetcode-questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1254-number-of-closed-islands](https://github.com/aarzootyagi/leetcode-questions/tree/master/1254-number-of-closed-islands) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aarzootyagi/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/aarzootyagi/leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/aarzootyagi/leetcode-questions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/aarzootyagi/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
