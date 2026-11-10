@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aarzootyagi/leetcode-questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/aarzootyagi/leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/aarzootyagi/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aarzootyagi/leetcode-questions/tree/master/0355-design-twitter) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0140-word-break-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/aarzootyagi/leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/aarzootyagi/leetcode-questions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/aarzootyagi/leetcode-questions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/aarzootyagi/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aarzootyagi/leetcode-questions/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/aarzootyagi/leetcode-questions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/aarzootyagi/leetcode-questions/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/aarzootyagi/leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/aarzootyagi/leetcode-questions/tree/master/0168-excel-sheet-column-title) |
 | [0263-ugly-number](https://github.com/aarzootyagi/leetcode-questions/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/aarzootyagi/leetcode-questions/tree/master/0282-expression-add-operators) |
