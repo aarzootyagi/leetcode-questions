@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aarzootyagi/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0721-accounts-merge](https://github.com/aarzootyagi/leetcode-questions/tree/master/0721-accounts-merge) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/aarzootyagi/leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aarzootyagi/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0721-accounts-merge](https://github.com/aarzootyagi/leetcode-questions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/aarzootyagi/leetcode-questions/tree/master/0743-network-delay-time) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aarzootyagi/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aarzootyagi/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -930,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aarzootyagi/leetcode-questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0355-design-twitter](https://github.com/aarzootyagi/leetcode-questions/tree/master/0355-design-twitter) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
