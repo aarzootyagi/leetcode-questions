@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aarzootyagi/leetcode-questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/aarzootyagi/leetcode-questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/aarzootyagi/leetcode-questions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aarzootyagi/leetcode-questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aarzootyagi/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0147-insertion-sort-list) |
+| [0164-maximum-gap](https://github.com/aarzootyagi/leetcode-questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/aarzootyagi/leetcode-questions/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aarzootyagi/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/aarzootyagi/leetcode-questions/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/aarzootyagi/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -1096,4 +1099,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aarzootyagi/leetcode-questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aarzootyagi/leetcode-questions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aarzootyagi/leetcode-questions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
