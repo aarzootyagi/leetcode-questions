@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/aarzootyagi/leetcode-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/aarzootyagi/leetcode-questions/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aarzootyagi/leetcode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aarzootyagi/leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/aarzootyagi/leetcode-questions/tree/master/1386-cinema-seat-allocation) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aarzootyagi/leetcode-questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aarzootyagi/leetcode-questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/aarzootyagi/leetcode-questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aarzootyagi/leetcode-questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aarzootyagi/leetcode-questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aarzootyagi/leetcode-questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -874,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/aarzootyagi/leetcode-questions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/aarzootyagi/leetcode-questions/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -924,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aarzootyagi/leetcode-questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aarzootyagi/leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
