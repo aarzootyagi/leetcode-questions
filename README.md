@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/aarzootyagi/leetcode-questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/aarzootyagi/leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/aarzootyagi/leetcode-questions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/aarzootyagi/leetcode-questions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/aarzootyagi/leetcode-questions/tree/master/0087-scramble-string) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aarzootyagi/leetcode-questions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/aarzootyagi/leetcode-questions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/aarzootyagi/leetcode-questions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/aarzootyagi/leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/aarzootyagi/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/aarzootyagi/leetcode-questions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/aarzootyagi/leetcode-questions/tree/master/0067-add-binary) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aarzootyagi/leetcode-questions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/aarzootyagi/leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/aarzootyagi/leetcode-questions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/aarzootyagi/leetcode-questions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/aarzootyagi/leetcode-questions/tree/master/0402-remove-k-digits) |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/aarzootyagi/leetcode-questions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/aarzootyagi/leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/aarzootyagi/leetcode-questions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/aarzootyagi/leetcode-questions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/aarzootyagi/leetcode-questions/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/aarzootyagi/leetcode-questions/tree/master/0486-predict-the-winner) |
